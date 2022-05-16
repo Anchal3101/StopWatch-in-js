@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(40, 40, 49);
+  align-items: center;
+    
+  
+}
+#main-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.count{
+color: aliceblue;
+font-size: 150px;
+}
+
+.string{
+    color: aliceblue;
+    font-size: 50px;
+}
+#btn-cont{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+}
+
+.btn{
+    width: 100px; height: 40px;
+    color: aliceblue;
+}
+#start{
+    background-color: rgb(15, 239, 15);
+}
+#stop{
+    background-color: rgb(239, 15, 15);
+}
+#reset{
+    background-color: rgb(127, 97, 6);
+}
