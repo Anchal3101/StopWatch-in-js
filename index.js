@@ -4,9 +4,6 @@ let hr = 0;
 let timer = false;
 let count = 0;
 
-
-
-
 const start=()=>{
    timer=true;
   stopwatch();
